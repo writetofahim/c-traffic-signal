@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\traffic_light.obj" 
+TO ".\Objects\traffic signal" 
+PRINT(".\Listings\traffic signal.m51")
